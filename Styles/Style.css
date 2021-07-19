@@ -87,4 +87,8 @@ header{
         flex-direction: row;
         justify-content: center;
     }
+
+    .main__image{
+        margin-right: 100px;
+    }
 }
